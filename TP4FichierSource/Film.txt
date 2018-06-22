@@ -1,0 +1,9 @@
+01,15,Crash,Drame,1996
+02,15,Faux-Semblants,Epouvante,1988
+03,14,Pulp Fiction,Policier,1994
+04,13,Breaking the waves,Drame,1996
+05,13,Dogville,Drame,2002
+06,12,Alamo,Western,1960
+07,18,Dangereusement votre,Espionnage,1985
+08,19,Chasseur blanc coeur noir,Drame,1989
+10,21,American Beauty,Drame,1999
